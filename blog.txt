@@ -1,0 +1,786 @@
+·
+https://www.facebook.com/sharer.php?u=
+https://twitter.com/intent/tweet?text=&url=
+https://www.linkedin.com/sharing/share-offsite/?url=
+
+https://www.reddit.com/submit?url=&title=
+https://web.whatsapp.com/send?text=https
+https://mail.google.com/mail/u/0/?to&su=&body=
+
+Noto Naskh Arabic UI
+Segoe UI, Segoe WP, Arial, Sans-Serif
+
+
+navigator.share( {title: "Learn web development on MDN!",
+  text: "Learn web development on MDN!",
+  url: "https://developer.mozilla.org"})
+
+
+You don’t need to make it beautiful, but make sure it’s easy to read. Keep your font size in an 18px – 22px range with 150%-175% line height and in between 60-75 words per line.
+
+
+
+            Share buttons 
+            author picture
+            reading time
+            date
+
+            save & like button
+            save & like & views numbers
+            listen to the article (sound)
+
+            related articles
+            comments
+
+
+
+apple books:
+
+Biographies & Memoirs
+Business & Personal Finance
+Comics & Graphic Novels
+Computers & Internet
+Cookbooks, Food & Wine
+Fiction & Literature
+Health, Mind & Body
+History
+Kids
+Mysteries & Thrillers
+Nonfiction
+Politics & Current Events
+Religion & Spirituality
+Romance
+Sci-Fi & Fantasy
+Sports & Outdoors
+Young Adult
+barners:
+		Fiction & Literature
+Folklore & Mythology
+General Fiction
+Graphic Novels & Comics
+Historical Fiction
+Horror
+Literary Fiction
+Literature
+Manga
+Mystery & Crime
+Poetry
+Romance
+Science Fiction & Fantasy
+Thrillers
+Westerns
+		Nonfiction
+Activity & Game Books
+African-American Studies
+Antiques & Collectibles
+Art, Architecture & Photography
+Astrology & Tarot
+Bibles & Christianity
+Biography
+Business Books
+Computers
+Cookbooks, Food & Wine
+Crafts & Hobbies
+Current Affairs & Politics
+Diet, Health & Fitness
+Education
+Engineering
+Foreign Languages
+History
+Home & Garden
+Humor
+Law
+LGBTQIA+ Studies
+Medicine & Nursing Books
+Music
+Nature
+New Age & Alternative Beliefs
+Parenting & Family
+Performing Arts
+Pets
+Philosophy
+Psychology
+Reference
+Religion
+Role-Playing & Fantasy Games
+Science & Technology
+Self-Help & Relationships
+Social Sciences
+Sociology
+Sports
+Study Aids & Test Prep
+Transportation
+Travel
+True Crime
+Weddings
+Women's Studies
+		Kids & Teens
+Ages 0-2
+Ages 3-5
+Ages 6-8
+Ages 9-12
+Teens & YA
+All Kids' Books
+		Blogs
+B&N Reads—Our Book Blog
+B&N Press Blog
+B&N Podcast
+		Customer Favorites
+B&N Top 100
+B&N Classics
+B&N Collectible Editions
+B&N Exclusives
+Best Books of the Year
+Black Voices
+Book Annex
+Book Awards
+Book Club Selections
+Coming Soon
+Coupons & Deals
+Discover Pick of the Month
+Escape into a Good Book
+Everyone's Talking About
+Foreign Language Books
+Gift Cards
+Libros en español
+New Releases
+NY Times® Bestsellers
+Oprah's Book Club
+Our Monthly Picks
+Page & Screen
+The Paperback Store
+Rare & Collector's Books
+Signed Books
+The Trend Shop
+Things to Do at Home
+		Other Formats
+Audiobooks
+Books on CD
+Boxed Sets
+Calendars
+NOOK Books
+Large Print
+		Categories
+Action/Adventure
+Activity & Game Books
+Animation
+Antiques & Collectibles
+Art House
+Art Supplies
+Art, Architecture & Photography
+Awards
+Bibles & Christianity
+Biography
+Building & LEGO
+Business
+Children's Movies & TV
+Children's Music
+Collectibles
+Comedy Drama
+Computers
+Cookbooks, Food & Wine
+Crafts & Hobbies
+Current Affairs & Politics
+Decorative Accents
+Diet, Health & Fitness
+Docudrama
+Documentary
+Dolls & Stuffed Animals
+Drama
+Drama - General
+Education
+Electronic Toys
+Family & Classic Games
+
+
+
+
+
+
+
+
+Medium:
+
+
+
+
+									Life
+					Family
+Adoption
+Children
+Elder Care
+Fatherhood
+Motherhood
+Parenting
+Pregnancy
+Seniors
+					Health
+Aging
+Coronavirus
+Covid-19
+Death And Dying
+Disease
+Fitness
+Mens Health
+Nutrition
+Sleep
+Trans Healthcare
+Vaccines
+Weight Loss
+Womens Health
+					Relationships
+Dating
+Divorce
+Friendship
+Love
+Marriage
+Polyamory
+					Sexuality
+BDSM
+Erotica
+Kink
+Sex
+Sexual Health
+					Home
+Architecture
+Home Improvement
+Homeownership
+Interior Design
+Rental Property
+Vacation Rental
+					Food
+Baking
+Coffee
+Cooking
+Foodies
+Restaurants
+Tea
+					Pets
+Cats
+Dog Training
+Dogs
+Hamsters
+Horses
+Pet Care
+									Self Improvement
+					Mental Health
+Anxiety
+Counseling
+Grief
+Life Lessons
+Self-awareness
+Stress
+Therapy
+Trauma
+					Productivity
+Career Advice
+Coaching
+Goal Setting
+Morning Routines
+Pomodoro Technique
+Time Management
+Work Life Balance
+					Mindfulness
+Guided Meditation
+Journaling
+Meditation
+Transcendental Meditation
+Yoga
+									Work
+					Business
+Entrepreneurship
+Freelancing
+Small Business
+Startups
+Venture Capital
+					Marketing
+Advertising
+Branding
+Content Marketing
+Content Strategy
+Digital Marketing
+SEO
+Social Media Marketing
+Storytelling For Business
+					Leadership
+Employee Engagement
+Leadership Coaching
+Leadership Development
+Management
+Meetings
+Org Charts
+Thought Leadership
+					Remote Work
+Company Retreats
+Digital Nomads
+Distributed Teams
+Future Of Work
+Work From Home
+									Technology
+					Artificial Intelligence
+ChatGPT
+Conversational AI
+Deep Learning
+Large Language Models
+Machine Learning
+NLP
+Voice Assistant
+					Blockchain
+Bitcoin
+Cryptocurrency
+Decentralized Finance
+Ethereum
+Nft
+Web3
+					Data Science
+Analytics
+Data Engineering
+Data Visualization
+Database Design
+Sql
+					Gadgets
+eBook
+Internet of Things
+iPad
+Smart Home
+Smartphones
+Wearables
+					Makers
+3D Printing
+Arduino
+DIY
+Raspberry Pi
+Robotics
+					Security
+Cybersecurity
+Data Security
+Encryption
+Infosec
+Passwords
+Privacy
+					Tech Companies
+Amazon
+Apple
+Google
+Mastodon
+Medium
+Meta
+Microsoft
+Tiktok
+Twitter
+					Design
+Accessibility
+Design Systems
+Design Thinking
+Graphic Design
+Icon Design
+Inclusive Design
+Product Design
+Typography
+UX Design
+UX Research
+					Product Management
+Agile
+Innovation
+Kanban
+Lean Startup
+MVP
+Product
+Strategy
+									Software Development
+					Programming
+Android Development
+Coding
+Flutter
+Frontend Engineering
+iOS Development
+Mobile Development
+Software Engineering
+Web Development
+					Programming Languages
+Angular
+CSS
+HTML
+Java
+JavaScript
+Nodejs
+Python
+React
+Ruby
+Typescript
+					Dev Ops
+AWS
+Databricks
+Docker
+Kubernetes
+Terraform
+					Operating Systems
+Android
+iOS
+Linux
+Macos
+Windows
+									Media
+					Writing
+30 Day Challenge
+Book Reviews
+Books
+Creative Nonfiction
+Diary
+Fiction
+Haiku
+Hello World
+Memoir
+Nonfiction
+Personal Essay
+Poetry
+Screenwriting
+Short Stories
+This Happened To Me
+Writing Prompts
+Writing Tips
+					Art
+Comics
+Contemporary Art
+Drawing
+Fine Art
+Generative Art
+Illustration
+Painting
+Portraits
+Street Art
+					Gaming
+Game Design
+Game Development
+Indie Game
+Metaverse
+Nintendo
+PlayStation
+Videogames
+Virtual Reality
+Xbox
+					Humor
+Comedy
+Jokes
+Parody
+Satire
+Stand Up Comedy
+					Movies
+Cinema
+Film
+Filmmaking
+Movie Reviews
+Oscars
+Sundance
+					Music
+Hip Hop
+Indie
+Metal
+Pop
+Rap
+Rock
+					News
+Data Journalism
+Fake News
+Journalism
+Misinformation
+True Crime
+					Photography
+Cameras
+Photography Tips
+Photojournalism
+Photos
+Street Photography
+					Podcasts
+Podcast Equipment
+Podcast Recommendations
+Podcasting
+Podcasting Tips
+Radio
+					Television
+Hbo Max
+Hulu
+Netflix
+Reality TV
+Tv Reviews
+									Society
+					Economics
+Basic Income
+Debt
+Economy
+Inflation
+Stock Market
+					Education
+Charter Schools
+Education Reform
+Higher Education
+PhD
+Public Schools
+Student Loans
+Study Abroad
+Teaching
+					Equality
+Disability
+Discrimination
+Diversity In Tech
+Feminism
+Inclusion
+LGBTQ
+Racism
+Transgender
+Womens Rights
+					Finance
+401k
+Investing
+Money
+Philanthropy
+Real Estate
+Retirement
+					Law
+Criminal Justice
+Law School
+Legaltech
+Social Justice
+Supreme Court
+					Transportation
+Logistics
+Public Transit
+Self Driving Cars
+Trucking
+Urban Planning
+					Politics
+Elections
+Government
+Gun Control
+Immigration
+Political Parties
+					Race
+American Indian
+Anti Racism
+Asian American
+Black Lives Matter
+Indigenous People
+Multiracial
+Pacific Islander
+White Privilege
+White Supremacy
+					Science
+Archaeology
+Astronomy
+Astrophysics
+Biotechnology
+Chemistry
+Ecology
+Genetics
+Geology
+Medicine
+Neuroscience
+Physics
+Psychology
+Space
+					Mathematics
+Algebra
+Calculus
+Geometry
+Probability
+Statistics
+					Drugs
+Addiction
+Cannabis
+Opioids
+Pharmaceuticals
+Psychedelics
+									Culture
+					Philosophy
+Atheism
+Epistemology
+Ethics
+Existentialism
+Metaphysics
+Morality
+Philosophy Of Mind
+Stoicism
+					Religion
+Buddhism
+Christianity
+Hinduism
+Islam
+Judaism
+Zen
+					Spirituality
+Astrology
+Energy Healing
+Horoscopes
+Mysticism
+Reiki
+					Cultural Studies
+Ancient History
+Anthropology
+Cultural Heritage
+Digital Life
+History
+Museums
+Sociology
+Tradition
+					Fashion
+Clothing
+Fashion Design
+Fashion Trends
+Shoes
+Sneakers
+Style
+					Beauty
+Beauty Tips
+Body Image
+Hair
+Makeup
+Skincare
+					Language
+Arabic
+English Language
+English Learning
+French
+German
+Hindi
+Language Learning
+Linguistics
+Mandarin
+Portuguese
+Spanish
+					Sports
+Baseball
+Basketball
+Football
+NBA
+NFL
+Premier League
+Soccer
+World Cup
+									World
+					
+					Cities
+Abu Dhabi
+Amsterdam
+Athens
+Bangkok
+Barcelona
+Berlin
+Boston
+Buenos Aires
+Chicago
+Copenhagen
+Delhi
+Dubai
+Dublin
+Edinburgh
+Glasgow
+Hong Kong
+Istanbul
+Lisbon
+London
+Los Angeles
+Madrid
+Melbourne
+Mexico City
+Miami
+Montreal
+New York City
+Paris
+Prague
+Rio De Janeiro
+Rome
+San Francisco
+Sydney
+Taipei
+Tel Aviv
+Tokyo
+Toronto
+Vancouver
+Vienna
+					Nature
+Birding
+Camping
+Climate Change
+Conservation
+Hiking
+Sustainability
+Wildlife
+					Travel
+Tourism
+Travel Tips
+Travel Writing
+Vacation
+Vanlife
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sign-Up
+
+        <p>Hello, Sign up to receive notifications about what you like and save
+
+            <span class="title">
+                <img src="../../all-icons/info-circle.svg" alt="Note">
+                <span>
+                    you can unsubscribe from the settings page
+                </span>
+            </span>
+
+        </p>
+
+
+header notifications
+
+
+    echo '<button class="notification" data-notification=""><img src="/projects/all-icons/bell.svg" alt="notifications">
+
+
+                        </button>
+
+                        <div>
+                            <a href="#" class="active">
+                                <img src="/projects/blog/images/2.jpg" alt="">
+                                <p>
+                                    <strong>lorem ipsum dolor, sit amet consectetur adipisicing elit.</strong>
+                                    <br>
+                                    <small>
+                                        magni harum tempore inventore delectus possimus corrupti suscipit cupiditate eos porro?
+                                        minima,
+                                        hic eveniet.
+                                    </small>
+                                </p>
+                            </a>
+                            <a href="#">
+                                <img src="/projects/blog/images/2.jpg" alt="">
+                                <p>
+                                    <strong>lorem ipsum dolor, sit amet consectetur adipisicing elit.</strong>
+                                    <br>
+                                    <small>
+                                        magni harum tempore inventore delectus possimus corrupti suscipit cupiditate eos porro?
+                                        minima,
+                                        hic eveniet.
+                                    </small>
+                                </p>
+                            </a>
+                        </div>';
+
+const notification = $('.notification')
+if (notification) {
+  const actNotification = $$('.notification+div .active').length
+  notification.dataset.notification = actNotification > 0 ? actNotification : ''
+
+  notification.onclick = () => $('.notification+div').classList.toggle('block')
+}
+
+            <label><input type="checkbox" name="notifications" value="on"
+                    <?php if ($showedUser['notifications']) {echo 'checked';}?>> receive notifications</label>
