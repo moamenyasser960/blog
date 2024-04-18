@@ -4,9 +4,9 @@ ob_start();
 
 include dirname(dirname(__FILE__)) . "/components/head.php";
 
-$fetchSaved = $GLOBALS['conn']->prepare("SELECT favorites FROM user WHERE email=:email AND password=:password");
-$fetchSaved->bindParam(':email', $GLOBALS['userEmail']);
-$fetchSaved->bindParam(':password', $GLOBALS['userPassword']);
+$fetchSaved = $conn->prepare("SELECT favorites FROM user WHERE email=:email AND password=:password");
+$fetchSaved->bindParam(':email', $userEmail);
+$fetchSaved->bindParam(':password', $userPassword);
 $fetchSaved->execute();
 
 $fetchSaved = $fetchSaved->fetch();
